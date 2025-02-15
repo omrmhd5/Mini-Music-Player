@@ -18,9 +18,7 @@ A sleek and minimalist **music player** built using **HTML, CSS, and JavaScript*
 
 | 🎵 Music Player Interface | ⏸️ Pause & Progress Tracking |  
 |--------------------------|---------------------------|  
-| ![image](https://github.com/user-attachments/assets/a663647a-ed4e-49b9-a719-f8cf64da6d13)
- | ![image](https://github.com/user-attachments/assets/6b82cdbb-5358-45f8-a3fa-6b2801c95c83)
- |  
+| ![image](https://github.com/user-attachments/assets/a663647a-ed4e-49b9-a719-f8cf64da6d13) | ![image](https://github.com/user-attachments/assets/6b82cdbb-5358-45f8-a3fa-6b2801c95c83) |  
 
 ---
 
