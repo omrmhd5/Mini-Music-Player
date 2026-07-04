@@ -39,11 +39,14 @@ A sleek and minimalist **music player** built using **HTML, CSS, and JavaScript*
 
 ---
 
-### Author
+## Author
 
-👤 **Omar Mahmoud**  
-📧 Email: omrmhd54@gmail.com  
-🔗 GitHub: [omrmhd5](https://github.com/omrmhd5)
+👤 **Omar Mahmoud**
+📧 [omrmhd54@gmail.com](mailto:omrmhd54@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/omrmhd5/)
+🌐 [Portfolio](https://omarmahmoud.dev/)
+🔗 [GitHub](https://github.com/omrmhd5)
+
 
 ---
 
